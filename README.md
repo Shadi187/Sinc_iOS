@@ -19,5 +19,5 @@ This project is currently **unfinished**, and development was paused after the i
 
 ## 🛑 Why It’s Unfinished
 
-The project was paused due to time constraints and a shift in focus toward more reusable components and smaller, focused projects. However, the work done on Sinc led to the creation of the `Sinc2` validation framework.
+The project was paused due to time constraints and a shift in focus toward more reusable components and smaller, focused projects. However, the work done on Sinc led to the creation of the `Sinc-Flutter` which will be the completed version
 
